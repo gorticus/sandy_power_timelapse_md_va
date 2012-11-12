@@ -1,4 +1,4 @@
-MD &amp; VA power outage maps during hurricane Sandy
+Time-lapses of MD &amp; VA power outage maps during hurricane Sandy
 ===========================
 
 A collection of animated gifs, from 2012/10/29 through 2012/11/03, showing power
