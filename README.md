@@ -6,7 +6,8 @@ VA](http://goo.gl/aW6G6) during hurricane Sandy.
 
 ## Viewing
 
-Links to the raw animated gifs are provided below.
+Links to the raw animated gifs are provided below.  The days start at 0000 UTC,
+so the localized capture time is 4 hrs earlier.
 
 ### BG&amp;E
 * [2012/10/29](https://raw.github.com/gorticus/sandy_power_timelapse_md_va/master/bge/bge-20121029.gif), significant damage start ~10:00 EDT
