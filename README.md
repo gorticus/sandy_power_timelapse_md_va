@@ -17,7 +17,7 @@ Links to the raw animated gifs are provided below.
 * [2012/11/03](https://raw.github.com/gorticus/sandy_power_timelapse_md_va/master/bge/bge-20121103.gif), almost normal
 
 ### Dominion Electric VA
-* [2012/10/29](https://raw.github.com/gorticus/sandy_power_timelapse_md_va/master/dom_va/dom_va-20121029.gif), Hampton out at start, N VA outage grow through day
+* [2012/10/29](https://raw.github.com/gorticus/sandy_power_timelapse_md_va/master/dom_va/dom_va-20121029.gif), Hampton out at start, N VA outages grow through day
 * [2012/10/30](https://raw.github.com/gorticus/sandy_power_timelapse_md_va/master/dom_va/dom_va-20121030.gif), major outages in N VA
 * [2012/10/31](https://raw.github.com/gorticus/sandy_power_timelapse_md_va/master/dom_va/dom_va-20121031.gif), Hampton yo-yos, some N VA progress
 * [2012/11/01](https://raw.github.com/gorticus/sandy_power_timelapse_md_va/master/dom_va/dom_va-20121101.gif), Hampton yo-yo continues, significant N VA progress
